@@ -315,7 +315,7 @@ function TitleScreen({ onBegin }) {
       <div className="title-corner bl">Printed by lamp-light at the front</div>
       <div className="title-corner br">— sound of distant guns —</div>
       <div className="title-credit">
-        A GAME BY <strong>THE MEAN ONE DEVELOPMENTS</strong> ★ MMXXVI
+        A GAME BY <strong>TheUndeadKnight Devs</strong> ★ MMXXVI
       </div>
     </div>
   );
